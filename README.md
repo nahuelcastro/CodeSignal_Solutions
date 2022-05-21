@@ -66,12 +66,15 @@ Join [codeSignal](https://app.codesignal.com/) and follow [me](https://app.codes
 | [**Base Conversion**](Arcade/Python/MeetPython/BaseConversion.md) | `Python` | `Meet Python` | 8 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/u7FW6fpp8Mqxe6sjt) |
 | [**Mex Function**](Arcade/Python/MeetPython/MexFunction.md) | `Python` | `Meet Python` | 9 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/pLsMG462nzEh3axHN) |
 | [**List Beautifier**](Arcade/Python/MeetPython/ListBeautifier.md) | `Python` | `Meet Python` | 10 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/ZiezPAoWeaK9ThXvQ) |
-| [**Fix Message**]() | `Python` | `Slithering in Strings` | 12 | [link]() |
-| [**EXAMPLE**]() | `Python` | `Slithering in Strings` | 13 | [link]() |
-| [**EXAMPLE**]() | `Python` | `Slithering in Strings` | 14 | [link]() |
-| [**EXAMPLE**]() | `Python` | `Slithering in Strings` | 15 | [link]() |
-| [**EXAMPLE**]() | `Python` | `Slithering in Strings` | 16 | [link]() |
-| [**EXAMPLE**]() | `Python` | `Slithering in Strings` | 17 | [link]() |
+| [**Fix Message**](Arcade/Python/MeetPython/Slithering_in_Strings/FixMessage.md) | `Python` | `Slithering in Strings` | 12 | [link](https://app.codesignal.com/arcade/python-arcade/slithering-in-strings/Wmdqw8NBzcbqHSsw7) |
+| [**Cat Walk**](Arcade/Python/MeetPython/Slithering_in_Strings/CatWalk.md) | `Python` | `Slithering in Strings` | 13 | [link](https://app.codesignal.com/arcade/python-arcade/slithering-in-strings/GH7QauS4xyHin5YLm) |
+| [**Convert Tabs**](Arcade/Python/MeetPython/Slithering_in_Strings/ConvertTabs.md) | `Python` | `Slithering in Strings` | 14 | [link](https://app.codesignal.com/arcade/python-arcade/slithering-in-strings/joYKtZyJDDsFQBLHP) |
+| [**Feedback Review**](Arcade/Python/MeetPython/Slithering_in_Strings/FeedbackReview.md) | `Python` | `Slithering in Strings` | 15 | [link](https://app.codesignal.com/arcade/python-arcade/slithering-in-strings/Rzf4YKMk69Jm3gNnm) |
+| [**Is Word Palindrome**](Arcade/Python/MeetPython/Slithering_in_Strings/IsWordPalindrome.md) | `Python` | `Slithering in Strings` | 16 | [link](https://app.codesignal.com/arcade/python-arcade/slithering-in-strings/r6xwnEjaw5kNgsyZD) |
+| [**Permutation Cipher**](Arcade/Python/MeetPython/Slithering_in_Strings/PermutationCipher.md) | `Python` | `Slithering in Strings` | 17 | [link](https://app.codesignal.com/arcade/python-arcade/slithering-in-strings/YADembruQtLCmiBKB) |
+| [**Competitive Eating**](Arcade/Python/MeetPython/Slithering_in_Strings/CompetitiveEating.md) | `Python` | `Slithering in Strings` | 18 | [link](https://app.codesignal.com/arcade/python-arcade/slithering-in-strings/BPFsda3ddPJruBX24) |
+| [**New Style Formatting**](Arcade/Python/MeetPython/Slithering_in_Strings/NewStyleFormatting.md) | `Python` | `Slithering in Strings` | 19 | [link](https://app.codesignal.com/arcade/python-arcade/slithering-in-strings/GADdmPKQivSzQGYLw) |
+| [**Get Commit**](Arcade/Python/MeetPython/Slithering_in_Strings/GetCommit.md) | `Python` | `Slithering in Strings` | 20 | [link](https://app.codesignal.com/arcade/python-arcade/slithering-in-strings/FmSEJMu8fbybQ7Ka4) |
 
 
 

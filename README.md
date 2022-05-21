@@ -60,14 +60,13 @@ Join [codeSignal](https://app.codesignal.com/) and follow [me](https://app.codes
 | [**Alternating Sums**](Arcade/Intro/alternatingSums.md) | `Intro` | `4` | 14 | [link](https://app.codesignal.com/arcade/intro/level-4/cC5QuL9fqvZjXJsW9) |
 | [**Add Border**](Arcade/Intro/addBorder.md) | `Intro` | `4` | 15 | [link](https://app.codesignal.com/arcade/intro/level-4/ZCD7NQnED724bJtjN) |
 | [**Are Similar?**](Arcade/Intro/areSimilar.md) | `Intro` | `4` | 16 | [link](https://app.codesignal.com/arcade/intro/level-4/xYXfzQmnhBvEKJwXP) |
-| [**Count Bits**](Arcade/Python/CountBits.md) | `Python` | `Meet Python` | 5 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/7bGkfoFf65CiqbX3s) |
-| [**Modulus**](Arcade/Python/Modulus.md) | `Python` | `Meet Python` | 6 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/mygD2J9yDbRmtKW8T) |
-| [**Simple Sort**](Arcade/Python/SimpleSort.md) | `Python` | `Meet Python` | 7 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/MEgcxkQyYqFDdySnH) |
-| [**Base Conversion**](Arcade/Python/BaseConversion.md) | `Python` | `Meet Python` | 8 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/u7FW6fpp8Mqxe6sjt) |
-| [**Mex Function**](Arcade/Python/MexFunction.md) | `Python` | `Meet Python` | 9 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/pLsMG462nzEh3axHN) |
-| [**List Beautifier**](Arcade/Python/ListBeautifier.md) | `Python` | `Meet Python` | 10 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/ZiezPAoWeaK9ThXvQ) |
-| [**EXAMPLE**]() | `Python` | `Slithering in Strings` | 11 | [link]() |
-| [**EXAMPLE**]() | `Python` | `Slithering in Strings` | 12 | [link]() |
+| [**Count Bits**](Arcade/Python/MeetPython/CountBits.md) | `Python` | `Meet Python` | 5 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/7bGkfoFf65CiqbX3s) |
+| [**Modulus**](Arcade/Python/MeetPython/Modulus.md) | `Python` | `Meet Python` | 6 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/mygD2J9yDbRmtKW8T) |
+| [**Simple Sort**](Arcade/Python/MeetPython/SimpleSort.md) | `Python` | `Meet Python` | 7 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/MEgcxkQyYqFDdySnH) |
+| [**Base Conversion**](Arcade/Python/MeetPython/BaseConversion.md) | `Python` | `Meet Python` | 8 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/u7FW6fpp8Mqxe6sjt) |
+| [**Mex Function**](Arcade/Python/MeetPython/MexFunction.md) | `Python` | `Meet Python` | 9 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/pLsMG462nzEh3axHN) |
+| [**List Beautifier**](Arcade/Python/MeetPython/ListBeautifier.md) | `Python` | `Meet Python` | 10 | [link](https://app.codesignal.com/arcade/python-arcade/meet-python/ZiezPAoWeaK9ThXvQ) |
+| [**Fix Message**]() | `Python` | `Slithering in Strings` | 12 | [link]() |
 | [**EXAMPLE**]() | `Python` | `Slithering in Strings` | 13 | [link]() |
 | [**EXAMPLE**]() | `Python` | `Slithering in Strings` | 14 | [link]() |
 | [**EXAMPLE**]() | `Python` | `Slithering in Strings` | 15 | [link]() |

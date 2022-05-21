@@ -3,8 +3,6 @@
 
 Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.
 
-![img.](https://codesignal.s3.amazonaws.com/tasks/shapeArea/img/area.png?_tm=1624642306583)
-
 Example
 
 For `inputArray = [3, 6, -2, -5, 7, 3]`, the output should be\
@@ -34,13 +32,14 @@ Input/Output
 ## Solution
 
 ```python
-int solution(int n) {
-    if(n==1){
-        return 1;
-    }
-    return solution(n-1) + 4 * (n-1);
-}
+def solution(inputArray):
+    res = inputArray[0] * inputArray[1]
+    for i in range(0,len(inputArray)-1):
+        mul = inputArray[i] * inputArray[i+1]
+        if res < mul:
+            res = mul
+    return res
 ```
 
 ---
-[See on app.codesignal.com](hhttps://app.codesignal.com/arcade/intro/level-2/yuGuHvcCaFCKk56rJ)
+[See on app.codesignal.com](https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m)

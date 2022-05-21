@@ -29,6 +29,7 @@ Input/Output
 
     A new-style formatting string without positional indices.
 <br>
+
 ---
 ## Solution
 

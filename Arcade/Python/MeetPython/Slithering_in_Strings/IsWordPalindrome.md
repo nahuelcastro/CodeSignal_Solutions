@@ -27,6 +27,7 @@ Input/Output
 
     `true` if the given `word` is a *palindrome*, `false` otherwise.
 <br>
+
 ---
 ## Solution
 

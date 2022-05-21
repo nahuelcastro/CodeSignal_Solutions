@@ -48,6 +48,7 @@ Input/Output
 
     Your `password` encrypted by the *permutations cipher* with the given `key`.
 <br>
+
 ---
 ## Solution
 

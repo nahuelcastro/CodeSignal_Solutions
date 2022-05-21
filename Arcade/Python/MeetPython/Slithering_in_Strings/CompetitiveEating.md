@@ -47,6 +47,7 @@ Input/Output
 
     A string of length `width` representing the time `t` as it will be displayed on the billboard.
 <br>
+
 ---
 ## Solution
 

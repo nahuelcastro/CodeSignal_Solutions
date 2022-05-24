@@ -85,20 +85,20 @@ Join [codeSignal](https://app.codesignal.com/) and follow [me](https://app.codes
 | [**Transpose Dictionary**](Arcade/Python/Caravan_of_Collections/TransposeDictionary.md) | `Caravan of Collections` | 45 | [link](https://app.codesignal.com/arcade/python-arcade/caravan-of-collections/3q55u2MWA2Rw5HvmM) |
 | [**Doodled Password**](Arcade/Python/Caravan_of_Collections/DoodledPassword.md) | `Caravan of Collections` | 46 | [link](https://app.codesignal.com/arcade/python-arcade/caravan-of-collections/aarR4B273h5D2x8ry) |
 | [**Frequency Analysis**](Arcade/Python/Caravan_of_Collections/FrequencyAnalysis.md) | `Caravan of Collections` | 47 | [link](https://app.codesignal.com/arcade/python-arcade/caravan-of-collections/pE4t3DcoTRfwHwYG8) |
-| [**GENERICO**]() | `Itertools Kit` | 48 | [link]() |
-| [**GENERICO**]() | `Itertools Kit` | 49 | [link]() |
-| [**GENERICO**]() | `Itertools Kit` | 50 | [link]() |
-| [**GENERICO**]() | `Itertools Kit` | 51 | [link]() |
-| [**GENERICO**]() | `Itertools Kit` | 52 | [link]() |
-| [**GENERICO**]() | `Itertools Kit` | 53 | [link]() |
-| [**GENERICO**]() | `Itertools Kit` | 54 | [link]() |
-| [**GENERICO**]() | `Drilling the Lists` | 55 | [link]() |
-| [**GENERICO**]() | `Drilling the Lists` | 56 | [link]() |
-| [**GENERICO**]() | `Drilling the Lists` | 57 | [link]() |
-| [**GENERICO**]() | `Drilling the Lists` | 58 | [link]() |
-| [**GENERICO**]() | `Drilling the Lists` | 59 | [link]() |
-| [**GENERICO**]() | `Drilling the Lists` | 60 | [link]() |
-| [**GENERICO**]() | `Yin and Yang of Yields` | 65 | [link]() | -->
+| [**Cyclic Name**](Arcade/Python/Itertools_Kit/CyclicName.md) | `Itertools Kit` | 48 | [link](https://app.codesignal.com/arcade/python-arcade/itertools-kit/QAFXsBY35wRnHkruC) |
+| [**Memory Pills**](Arcade/Python/Itertools_Kit/MemoryPills.md) | `Itertools Kit` | 49 | [link](https://app.codesignal.com/arcade/python-arcade/itertools-kit/R2GeRWE2SXz4eLAe5) |
+| [**Float Range**](Arcade/Python/Itertools_Kit/FloatRange.md) | `Itertools Kit` | 50 | [link](https://app.codesignal.com/arcade/python-arcade/itertools-kit/cDuMQ6Fd4N58zdCWN) |
+| [**Rock Paper Scissors**](Arcade/Python/Itertools_Kit/RockPaperScissors.md) | `Itertools Kit` | 51 | [link](https://app.codesignal.com/arcade/python-arcade/itertools-kit/d9Ru2ARE5tXoQ9KgR)|
+| [**Kth Permutation**](Arcade/Python/Itertools_Kit/KthPermutation.md) | `Itertools Kit` | 52 | [link](https://app.codesignal.com/arcade/python-arcade/itertools-kit/opua5BqfJSaW9ny4Q) |
+| [**Crazyball**](Arcade/Python/Itertools_Kit/Crazyball.md) | `Itertools Kit` | 53 | [link](https://app.codesignal.com/arcade/python-arcade/itertools-kit/nPt9LX3Piip9ZspLv) |
+| [**Cracking Password**](Arcade/Python/Itertools_Kit/CrackingPassword.md) | `Itertools Kit` | 54 | [link](https://app.codesignal.com/arcade/python-arcade/itertools-kit/k2MEPqLJn5YEWafkt) |
+| [**Twin Score**](Arcade/Python/Drilling_the_Lists/TwinsScore.md) | `Drilling the Lists` | 55 | [link](https://app.codesignal.com/arcade/python-arcade/drilling-the-lists/ESdegETWZmXLJYirj) |
+| [**Pressure Gauges**](Arcade/Python/Drilling_the_Lists/PressureGauges.md) | `Drilling the Lists` | 56 | [link](https://app.codesignal.com/arcade/python-arcade/drilling-the-lists/SkTfc263CQbGNMtoj) |
+| [**Correct Lineup**](Arcade/Python/Drilling_the_Lists/CorrectLineup.md) | `Drilling the Lists` | 57 | [link](https://app.codesignal.com/arcade/python-arcade/drilling-the-lists/M6QtFEgxrfY9Wihbt) |
+| [**Group Dating**](Arcade/Python/Drilling_the_Lists/GroupDating.md) | `Drilling the Lists` | 58 | [link](https://app.codesignal.com/arcade/python-arcade/drilling-the-lists/okcMELPg5HbvSKodi) |
+| [**Fix Tree**](Arcade/Python/Drilling_the_Lists/FixTree.md) | `Drilling the Lists` | 59 | [link](https://app.codesignal.com/arcade/python-arcade/drilling-the-lists/qtoFLsK47rS6B5iEN) |
+| [**Pref Sum**](Arcade/Python/Drilling_the_Lists/PrefSum.md) | `Drilling the Lists` | 60 | [link](https://app.codesignal.com/arcade/python-arcade/drilling-the-lists/Enwr8TBeTbuFbuPzu) |
+| [**Calc Bonuses**](Arcade/Python/Yin_and_Yang_of_Yields/CalcBonuses.md) | `Yin and Yang of Yields` | 65 | [link](https://app.codesignal.com/arcade/python-arcade/yin-and-yang/z6KZcoJ9jePsenzWo) |
 
 
 <br>

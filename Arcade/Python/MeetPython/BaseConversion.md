@@ -38,6 +38,7 @@ Input/Output
 
     The value of `n` in base `16`. The string should contain only digits and lowercase English letters `'a' - 'f'`.
 <br>
+
 ---
 ## Solution
 

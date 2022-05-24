@@ -65,6 +65,20 @@ Join [codeSignal](https://app.codesignal.com/) and follow [me](https://app.codes
 | [**Two Teams**](Arcade\Python\Lurking_in_Lists\TwoTeams.md) | `Lurking in List` | 23 | [link](https://app.codesignal.com/arcade/python-arcade/lurking-in-lists/xacqXRHoHhEC3dC4N) |
 | [**Remove Tasks**](Arcade\Python\Lurking_in_Lists\RemoveTasks.md) | `Lurking in List` | 24 | [link](https://app.codesignal.com/arcade/python-arcade/lurking-in-lists/L3TQWdGMcWL85LHcR) |
 | [**Print List**](Arcade\Python\Lurking_in_Lists\PrintList.md) | `Lurking in List` | 25 | [link](https://app.codesignal.com/arcade/python-arcade/lurking-in-lists/2nwFuRGHpmfRJ8GCo) |
+| [**Repeat Char**](Arcade/Python/Lambda_Illusions/RepeatChar.md) | `Lambda Illusions` | 26 | [link](https://app.codesignal.com/arcade/python-arcade/lambda-illusions/bCAsRfNJrjD9zhxkS) |
+| [**Get Points**](Arcade/Python/Lambda_Illusions/GetPoints.md) | `Lambda Illusions` | 27 | [link](https://app.codesignal.com/arcade/python-arcade/lambda-illusions/kYGchiunT4QtB5Dh9) |
+| [**Sort Students**](Arcade/Python/Lambda_Illusions/SortStudents.md) | `Lambda Illusions` | 28 | [link](https://app.codesignal.com/arcade/python-arcade/lambda-illusions/EqEoH6umA9Xi8fTQM) |
+| [**Is Test Solvable**](Arcade/Python/Lambda_Illusions/IsTestSolvable.md) | `Lambda Illusions` | 29 | [link](https://app.codesignal.com/arcade/python-arcade/lambda-illusions/eP7hJDmLdZym2Kdo3)|
+| [**Create Spiral Matrix**](Arcade/Python/Complexity_of_Comprehension/CreateSpiralMatrix.md) | `Complexity of Comprehension` | 30 | [link](https://app.codesignal.com/arcade/python-arcade/complexity-of-comprehension/HZjrbpxa7gbrmb4kd) |
+| [**Construct Shell**](Arcade/Python/Complexity_of_Compehension/ConstructShell.md) | `Complexity of Comprehension` | 31 | [link](https://app.codesignal.com/arcade/python-arcade/complexity-of-comprehension/DfDPhgb5Bj2HQSdr5)|
+| [**Word Power**](Arcade/Python/Complexity_of_Compehension/WordPower.md) | `Complexity of Comprehension` | 32 | [link](https://app.codesignal.com/arcade/python-arcade/complexity-of-comprehension/5rZN7nJ7Tkd9S4TLC) |
+| [**Cool Pairs**](Arcade/Python/Complexity_of_Compehension/CoolPairs.md) | `Complexity of Comprehension` | 33 | [link](https://app.codesignal.com/arcade/python-arcade/complexity-of-comprehension/a6DD4JaT2moH22XTf) |
+| [**Multiplication Table**](Arcade/Python/Complexity_of_Compehension/MultiplicationTable.md) | `Fumbling in Functional` | 34 | [link](https://app.codesignal.com/arcade/python-arcade/complexity-of-comprehension/vtDLcQWTSc5tJHL6x) |
+| [**Chess Teams**](Arcade/Python/Fumbling_in_Functional/ChessTeams.md) | `Fumbling in Functional` | 35 | [link](https://app.codesignal.com/arcade/python-arcade/fumbling-in-functional/z5SJJNMiSFyFDFpZR) |
+| [**Fix Result**](Arcade/Python/Fumbling_in_Functional/FixResult.md) | `Fumbling in Functional` | 36 | [link](https://app.codesignal.com/arcade/python-arcade/fumbling-in-functional/TjCNTwysvW6za5Qh4) |
+| [**College Courses**](Arcade/Python/Fumbling_in_Functional/CollegeCourses.md) | `Fumbling in Functional` | 37 | [link](https://app.codesignal.com/arcade/python-arcade/fumbling-in-functional/hJqXodrjeBDPZPZRn) |
+| [**Create Histogram**](Arcade/Python/Fumbling_in_Functional/CreateHistogram.md) | `Fumbling in Functional` | 38 | [link](https://app.codesignal.com/arcade/python-arcade/fumbling-in-functional/rXovZdK7redkSJL5g) |
+
 
 
 <br>

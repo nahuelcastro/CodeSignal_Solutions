@@ -78,7 +78,27 @@ Join [codeSignal](https://app.codesignal.com/) and follow [me](https://app.codes
 | [**Fix Result**](Arcade/Python/Fumbling_in_Functional/FixResult.md) | `Fumbling in Functional` | 36 | [link](https://app.codesignal.com/arcade/python-arcade/fumbling-in-functional/TjCNTwysvW6za5Qh4) |
 | [**College Courses**](Arcade/Python/Fumbling_in_Functional/CollegeCourses.md) | `Fumbling in Functional` | 37 | [link](https://app.codesignal.com/arcade/python-arcade/fumbling-in-functional/hJqXodrjeBDPZPZRn) |
 | [**Create Histogram**](Arcade/Python/Fumbling_in_Functional/CreateHistogram.md) | `Fumbling in Functional` | 38 | [link](https://app.codesignal.com/arcade/python-arcade/fumbling-in-functional/rXovZdK7redkSJL5g) |
-
+| [**Unique Characters**](Arcade/Python/Caravan_of_Collections/UniqueCharacters.md) | `Caravan of Collections` | 41 | [link](https://app.codesignal.com/arcade/python-arcade/caravan-of-collections/RSsTY2Aevh9gpBTNd) |
+| [**Correct Scholarships**](Arcade/Python/Caravan_of_Collections/CorrectScholarships.md) | `Caravan of Collections` | 42 | [link](https://app.codesignal.com/arcade/python-arcade/caravan-of-collections/f3dcuz6yoKv9yorzh) |
+| [**Startup Name**](Arcade/Python/Caravan_of_Collections/StartupName.md) | `Caravan of Collections` | 43 | [link](https://app.codesignal.com/arcade/python-arcade/caravan-of-collections/G6yyoXW9w888pnvsZ) |
+| [**Word Recognition**](Arcade/Python/Caravan_of_Collections/WordsRecognition.md) | `Caravan of Collections` | 44 | [link](https://app.codesignal.com/arcade/python-arcade/caravan-of-collections/zmQ9DqAN2mDL9hive) |
+| [**Transpose Dictionary**](Arcade/Python/Caravan_of_Collections/TransposeDictionary.md) | `Caravan of Collections` | 45 | [link](https://app.codesignal.com/arcade/python-arcade/caravan-of-collections/3q55u2MWA2Rw5HvmM) |
+| [**Doodled Password**](Arcade/Python/Caravan_of_Collections/DoodledPassword.md) | `Caravan of Collections` | 46 | [link](https://app.codesignal.com/arcade/python-arcade/caravan-of-collections/aarR4B273h5D2x8ry) |
+| [**Frequency Analysis**](Arcade/Python/Caravan_of_Collections/FrequencyAnalysis.md) | `Caravan of Collections` | 47 | [link](https://app.codesignal.com/arcade/python-arcade/caravan-of-collections/pE4t3DcoTRfwHwYG8) |
+| [**GENERICO**]() | `Itertools Kit` | 48 | [link]() |
+| [**GENERICO**]() | `Itertools Kit` | 49 | [link]() |
+| [**GENERICO**]() | `Itertools Kit` | 50 | [link]() |
+| [**GENERICO**]() | `Itertools Kit` | 51 | [link]() |
+| [**GENERICO**]() | `Itertools Kit` | 52 | [link]() |
+| [**GENERICO**]() | `Itertools Kit` | 53 | [link]() |
+| [**GENERICO**]() | `Itertools Kit` | 54 | [link]() |
+| [**GENERICO**]() | `Drilling the Lists` | 55 | [link]() |
+| [**GENERICO**]() | `Drilling the Lists` | 56 | [link]() |
+| [**GENERICO**]() | `Drilling the Lists` | 57 | [link]() |
+| [**GENERICO**]() | `Drilling the Lists` | 58 | [link]() |
+| [**GENERICO**]() | `Drilling the Lists` | 59 | [link]() |
+| [**GENERICO**]() | `Drilling the Lists` | 60 | [link]() |
+| [**GENERICO**]() | `Yin and Yang of Yields` | 65 | [link]() | -->
 
 
 <br>

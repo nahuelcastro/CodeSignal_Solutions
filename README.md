@@ -102,7 +102,7 @@ Join [codeSignal](https://app.codesignal.com/) and follow [me](https://app.codes
 | [**Calc Bonuses**](Arcade/Python/Yin_and_Yang_of_Yields/CalcBonuses.md) | `Yin and Yang of Yields` | 65 | [link](https://app.codesignal.com/arcade/python-arcade/yin-and-yang/z6KZcoJ9jePsenzWo) |
 | [**Calc Final Score**](Arcade/Python/Yin_and_Yang_of_Yields/CalcFinalScore.md) | `Yin and Yang of Yields` | 66 | [link](https://app.codesignal.com/arcade/python-arcade/yin-and-yang/4ReLEsLE6SDZkXDzK) |
 | [**Fibonacci Generator**](Arcade/Python/Yin_and_Yang_of_Yields/FibonacciGenerator.md) | `Yin and Yang of Yields` | 67 | [link](https://app.codesignal.com/arcade/python-arcade/yin-and-yang/KAvAhLPEzyx6dBKYT) |
-
+| [**Try Functions**](Arcade/Python/Higher_order_Thinking/TryFunctions.md) | `Higher Order Thinking` | 73 | [link](https://app.codesignal.com/arcade/python-arcade/higher-order-thinking/2wXrvGPGwwEejLXq2) |
 
 
 

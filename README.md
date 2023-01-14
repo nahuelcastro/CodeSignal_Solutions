@@ -18,6 +18,7 @@ Join [codeSignal](https://app.codesignal.com/) and follow [me](https://app.codes
 | [**Fare Estimator**](CompanyChallenges/Uber/fareEstimator.md)  | `Uber` | [link](https://app.codesignal.com/company-challenges/uber/HNQwGHfKAoYsz9KX6) |
 | [**Fancy Ride**](CompanyChallenges/Uber/fancyRide.md)  | `Uber` | [link](https://app.codesignal.com/company-challenges/uber/4c3qzzQg8Zg9AfLKH) |
 | [**Incorrect Passcode Attempts**](CompanyChallenges/Dropbox/incorrectPasscodeAttempts.md)  | `Dropbox` | [link](https://app.codesignal.com/company-challenges/dropbox/ffibMFaS7mzKZkAE3) |
+| [**Domain Type**](CompanyChallenges/GoDaddy/domainType.md)  | `GoDaddy` | [link](https://app.codesignal.com/company-challenges/godaddy/RjJwsTCiF663krgSP) |
 
 <br>
 
@@ -105,6 +106,9 @@ Join [codeSignal](https://app.codesignal.com/) and follow [me](https://app.codes
 | [**Try Functions**](Arcade/Python/Higher_order_Thinking/TryFunctions.md) | `Higher Order Thinking` | 73 | [link](https://app.codesignal.com/arcade/python-arcade/higher-order-thinking/2wXrvGPGwwEejLXq2) |
 | [**Count Visitors**](Arcade/Python/Showing_Class/CountVisitors.md) | `Showing Class` | 78 | [link](https://app.codesignal.com/arcade/python-arcade/showing-class/q8K5YLLNvvQ2fahiB) |
 | [**Sign**](Arcade/Python/Showing_Class/Sign.md) | `Showing Class` | 79 | [link](https://app.codesignal.com/arcade/python-arcade/showing-class/bBdHSPDLc9W7mzjFY) |
+| [**Primary School**](Arcade/Python/Showing_Class/Primary_School.md) | `Showing Class` | 80 | [link](https://app.codesignal.com/arcade/python-arcade/showing-class/pzhNXW2KrdRWyhxzR) |
+
+
 
 
 
